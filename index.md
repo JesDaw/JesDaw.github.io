@@ -9,6 +9,7 @@ My GitHub page is http://github.com/JesDaw.
 ### CPSC 120
 
 * Lab 10
+
     Lab 10, part 1 one of my favorite projects because it really wasn't until
     the end of the semester until I started to get the hang of our projects.
     I think that this part was the first one I felt completely comfortable on.
@@ -20,6 +21,7 @@ My GitHub page is http://github.com/JesDaw.
  
 
 * Lab 11
+
     I actually didn’t like this one until right as I was finishing it. I had 
     really had the whole thing finished for hours but something wasn't working
     and I just couldn't understand what.With only about 2 or 3 hours until it 
@@ -29,6 +31,7 @@ My GitHub page is http://github.com/JesDaw.
 
 
 * Lab 12
+
     Out of all the projects I think the result of this one was the coolest.
     I really wasn't expecting to get into making pictures at all this year
     but this project ended us all making a whole animation which I was really happy
