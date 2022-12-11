@@ -17,19 +17,19 @@ My GitHub page is http://github.com/JesDaw.
     this year.
 
 
-Lab 11
+* Lab 11
 
     I actually didn’t like this one until right as I was finishing it. I had 
     really had the whole thing finished for hours but something wasn't working
-     and I just couldn't understand what.With only about 2 or 3 hours until it 
-     was due left I Had finally realized that I was getting the rows and the columns 
-     of a 2D vector mixed up. I had a bit of a laugh and a lot of relief, and now I 
-     don't think I'll be forgetting the syntax of 2 vectors.
+    and I just couldn't understand what.With only about 2 or 3 hours until it 
+    was due left I Had finally realized that I was getting the rows and the columns 
+    of a 2D vector mixed up. I had a bit of a laugh and a lot of relief, and now I 
+    don't think I'll be forgetting the syntax of 2 vectors.
 
 
-Lab 12
+* Lab 12
 
     Out of all the projects I think the result of this one was the coolest.
-     I really wasn't expecting to get into making pictures at all this year 
-     but this project ended us all making a whole animation. Part one also 
-     amazed me with how simple animations can be to make.
+    I really wasn't expecting to get into making pictures at all this year 
+    but this project ended us all making a whole animation. Part one also 
+    amazed me with how simple animations can be to make.
