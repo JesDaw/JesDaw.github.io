@@ -33,3 +33,5 @@ My GitHub page is http://github.com/JesDaw.
     I really wasn't expecting to get into making pictures at all this year 
     but this project ended us all making a whole animation. Part one also 
     amazed me with how simple animations can be to make.
+
+![The gif image from Lab 12 part-1](images/test_output.gif)
